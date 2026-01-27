@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 我的博客</title>
-        <link>http://localhost:3294/tags/</link>
+        <link>http://localhost:8620/tags/</link>
         <description>Recent content in Tags on 我的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 22 Jan 2026 02:52:32 +0800</lastBuildDate><atom:link href="http://localhost:3294/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 22 Jan 2026 02:52:32 +0800</lastBuildDate><atom:link href="http://localhost:8620/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>CSS</title>
-        <link>http://localhost:3294/tags/css/</link>
+        <link>http://localhost:8620/tags/css/</link>
         <pubDate>Thu, 22 Jan 2026 02:52:32 +0800</pubDate>
         
-        <guid>http://localhost:3294/tags/css/</guid>
+        <guid>http://localhost:8620/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Element Plus</title>
-        <link>http://localhost:3294/tags/element-plus/</link>
+        <link>http://localhost:8620/tags/element-plus/</link>
         <pubDate>Thu, 22 Jan 2026 02:52:32 +0800</pubDate>
         
-        <guid>http://localhost:3294/tags/element-plus/</guid>
+        <guid>http://localhost:8620/tags/element-plus/</guid>
         <description></description>
         </item>
         <item>
         <title>HTML</title>
-        <link>http://localhost:3294/tags/html/</link>
+        <link>http://localhost:8620/tags/html/</link>
         <pubDate>Thu, 22 Jan 2026 02:52:32 +0800</pubDate>
         
-        <guid>http://localhost:3294/tags/html/</guid>
+        <guid>http://localhost:8620/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Vue.js</title>
-        <link>http://localhost:3294/tags/vue.js/</link>
+        <link>http://localhost:8620/tags/vue.js/</link>
         <pubDate>Thu, 22 Jan 2026 02:52:32 +0800</pubDate>
         
-        <guid>http://localhost:3294/tags/vue.js/</guid>
+        <guid>http://localhost:8620/tags/vue.js/</guid>
         <description></description>
         </item>
         
